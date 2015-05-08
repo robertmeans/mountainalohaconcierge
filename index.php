@@ -12,12 +12,12 @@
 </head>
 <body onload="document.forms[0].name.focus();">
 <div id="bg-div-one">
-  <img src="_images/under-construction-opacity.png" alt="Under Construction">
+  <img src="_images/logo-01-opacity.png" alt="Under Construction">
 </div>
 <div id="wrapper">
 <header>
 	<h1>Mountain Aloha Concierge</h1>
-	<img src="_images/under-construction.png" alt="Under Construction">
+	<img src="_images/logo-01.png" alt="Under Construction">
 </header>
 <section id="left-side">
 
@@ -60,13 +60,13 @@
 
 <footer>
 	<div id="left">
-		<p>ABC Company, Inc.</p>
+		<p>Mountain Aloha Concierge</p>
 	</div>
 	<div id="center">
-		<p><i class="fa fa-map-marker"></i> 123 Main Street, Yourtown, CO</p>
+		<p><i class="fa fa-map-marker"></i> Serving Evergreen, Colorado area</p>
 	</div>
 	<div id="right">
-		<p><i class="fa fa-phone-square"></i> <a class="tel" tabIndex="-1" href="tel:(303) 555-1234">720.319.8316</a></p>
+		<p><i class="fa fa-phone-square"></i> <a class="tel" tabIndex="-1" href="tel:(303) 555-1234">720.471.6483</a></p>
 	</div>
 
 </footer>
