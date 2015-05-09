@@ -60,7 +60,7 @@
 
 <footer>
 	<div id="left">
-		<p>Mountain Aloha Concierge</p>
+		<p>Abbey Beach, Chief Facilitator</p>
 	</div>
 	<div id="center">
 		<p><i class="fa fa-map-marker"></i> Serving Evergreen, Colorado area</p>
