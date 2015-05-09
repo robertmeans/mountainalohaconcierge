@@ -66,8 +66,8 @@ input#send {
 	margin-left: 0;
 }
 footer {
-	height: auto;
-	padding: 20px 0px 20px 0px;
+	padding: 20px 0px 60px 0px;
+	margin-bottom: 20px;
 	p {
 		line-height: 2em;
 		padding: 0;
@@ -83,6 +83,9 @@ footer {
 		float: left;
 		width: 100%;
 		text-align: center;
+		p {
+			line-height: 1.2em;
+		}
 	}
 	#right {
 		float: right;
@@ -90,5 +93,16 @@ footer {
 		margin-left: 0;
 		width: 100%;
 	}
+	.copyright {
+		font-size: .6em;
+		position: static;
+		text-align: center;
+		top: auto;
+		margin-top: 2em;
+		color: #7a7a7a;
+		p {
+			line-height: 8em;
+		}
+	}	
 }
 } // closing (max-width: 799px)

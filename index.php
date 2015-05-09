@@ -7,7 +7,7 @@
 	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 	<script type="text/javascript" src="_scripts/custom-modernizr.js?<?php echo time(); ?>"></script>
-	<link rel="stylesheet" href="_css/style.css?<?php echo time(); ?>">	
+	<link rel="stylesheet" href="_css/under-construction-styles.css?<?php echo time(); ?>">	
 
 </head>
 <body onload="document.forms[0].name.focus();">
@@ -63,12 +63,13 @@
 		<p>Abbey Beach, Chief Facilitator</p>
 	</div>
 	<div id="center">
-		<p><i class="fa fa-map-marker"></i> Serving Evergreen, Colorado area</p>
+		<p><i class="fa fa-map-marker"></i> Serving Evergreen, Colorado</p>
+		<p>&amp; surrounding area</p>
 	</div>
 	<div id="right">
 		<p><i class="fa fa-phone-square"></i> <a class="tel" tabIndex="-1" href="tel:(303) 555-1234">720.471.6483</a></p>
 	</div>
-
+	<div class="copyright"><p>&copy; 2015 Mountain Aloha Concierge | <a href="http://www.evergreenwebdesign.com" target="_blank">Evergreen Web Design</a></p></div>
 </footer>
 </div><!-- #wrapper -->
 
