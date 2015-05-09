@@ -63,8 +63,8 @@
 		<p>Abbey Beach, Chief Facilitator</p>
 	</div>
 	<div id="center">
-		<p><i class="fa fa-map-marker"></i> Serving Evergreen, Colorado</p>
-		<p>&amp; surrounding area</p>
+		<p><i class="fa fa-map-marker"></i> Serving Evergreen, Colorado<br>
+		&amp; surrounding area</p>
 	</div>
 	<div id="right">
 		<p><i class="fa fa-phone-square"></i> <a class="tel" tabIndex="-1" href="tel:(303) 555-1234">720.471.6483</a></p>
