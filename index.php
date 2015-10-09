@@ -21,13 +21,11 @@
 </header>
 <section id="left-side">
 
-<h2>Tag line attention grabber slogan jingle</h2>
+<h2>Home &amp; Lifestyle Management Services</h2>
 	<ul>
-	<li>Add some basic information about your company here.</li>
-	<li>Services, Grand Opening date, etc.</li>
-	<li>Use this area for whatever information you want to display while your site is being built.</li>
-	<li>You don't have to use bullet points.</li>
-	<li>They do convey information quickly and concisely though.</li>
+	<li>Errand Services</li>
+	<li>Event Planning</li>
+	<li>Property Management Services</li>
 	</ul>
 
 </section>
@@ -60,7 +58,7 @@
 
 <footer>
 	<div id="left">
-		<p>Abbey Beach, Chief Facilitator</p>
+		<p>Abbey Lynn Beach, Founder &amp; Visionarian</p>
 	</div>
 	<div id="center">
 		<p><i class="fa fa-map-marker"></i> Serving Evergreen, Colorado<br>
